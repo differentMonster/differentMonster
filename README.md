@@ -30,5 +30,5 @@ I am fullstack developer on malaysia
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  ![Spacemacs_logo svg](https://user-images.githubusercontent.com/31682578/176105984-a4a7de89-6def-4138-a541-053c1cb3e6dd.png)
+  <img src="https://user-images.githubusercontent.com/31682578/176105984-a4a7de89-6def-4138-a541-053c1cb3e6dd.png" title="Spacemacs"  alt="Spacemacs" width="40" height="40"/>&nbsp;
 </div>
