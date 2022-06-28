@@ -9,6 +9,7 @@ I am fullstack developer on malaysia
 - :zap: In my free time, I solve and build and learn from people that i love
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :email: christophercheokofficial@gmail.com
 
 ### Moitvation :
 - I am self motivation with the passsion and love for startup and believe great innovation needs to put on mankinds, whatever it takes to get it done.
