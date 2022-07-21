@@ -1,12 +1,11 @@
-### Hi there 👋
+# Hi, I'm Christoher! :wave:
 
-About Me : 
-I am fullstack developer on malaysia
 ### Moitvation :
+- I am fullstack developer in malaysia.
 - I am self motivation with the passsion and love for startup and believe great innovation needs to put on mankinds, whatever it takes to get it done.
 - :telescope: I’m intrested to join startup team and contributing to frontend and backend for building web applications.
-- 🧑‍💻 I'm currently looking for a remote frontend development job (Nuxtjs, Vuejs and Nuxtjs)
-- :zap: In my free time, I solve and build and learn from people that i love
+- 🧑‍💻 I'm currently looking for a remote frontend development job (Nuxtjs, Vuejs and Nuxtjs).
+- :zap: In my free time, I solve and build and learn from people that i love.
 - :email: christophercheokofficial@gmail.com
 
 <table>
