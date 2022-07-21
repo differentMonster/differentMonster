@@ -13,6 +13,10 @@ I am fullstack developer on malaysia
 ### Moitvation :
 - I am self motivation with the passsion and love for startup and believe great innovation needs to put on mankinds, whatever it takes to get it done.
 
+## 💻 Technologies `</>` 
+# Frontend
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
