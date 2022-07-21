@@ -31,4 +31,8 @@ I am fullstack developer on malaysia
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)](https://hub.docker.com/_/docker-docs)
 [![WooCommerce](https://img.shields.io/static/v1?style=for-the-badge&message=WooCommerce&color=96588A&logo=WooCommerce&logoColor=FFFFFF&label=)](https://woocommerce.com/documentation/)
 [![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)](https://www.nginx.com/)
+---
+## CodeWars ⚔️
+[![Codewars](https://img.shields.io/static/v1?style=for-the-badge&message=Codewars&color=B1361E&logo=Codewars&logoColor=FFFFFF&label=)](https://www.codewars.com/users/_monster)
 
+![codewars](https://user-images.githubusercontent.com/31682578/180132762-176ea3dc-8e2a-4001-aba9-952603314838.png)
