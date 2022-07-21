@@ -1,4 +1,4 @@
-# Hi, I'm Christoher! :wave:
+# Hi, I'm Christopher! :wave:
 
 ### Moitvation :
 - I am fullstack developer in malaysia.
