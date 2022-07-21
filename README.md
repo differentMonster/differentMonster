@@ -35,4 +35,5 @@ I am fullstack developer on malaysia
 ## CodeWars ⚔️
 [![Codewars](https://img.shields.io/static/v1?style=for-the-badge&message=Codewars&color=B1361E&logo=Codewars&logoColor=FFFFFF&label=)](https://www.codewars.com/users/_monster)
 
-![codewars](https://user-images.githubusercontent.com/31682578/180132762-176ea3dc-8e2a-4001-aba9-952603314838.png)
+![codewars](https://user-images.githubusercontent.com/31682578/180132985-3c4d99c0-602e-4dee-b0ac-ed808a90f093.png)
+
